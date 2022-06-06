@@ -8,5 +8,11 @@ This looks into the percentage of 2-point and 3-point shots that were made and d
 *hotel recommendations* 
 The goal of this project is to be able to take information and appropriately aggregate the data to give a recommendation. You could sum the project up in three steps. Step 1 is to narrow down by location and hotel who is booking a hotel versus who is simply looking at hotels. The next step is to create a cross reference between the number of clicks and the number of actual bookings to give a weighted average for booking to clicks. The final step is to bring the data in and start to train the csv files into a machine learning model. 
 
+*Super Bowl*
+This project delves into a lot of EDA showing how to differentiate data points.
+
+*Bank Fraud*
+This project uses a structured data set to create a K cluster machine learning model to predict what bank activities are likely to have fradulent activity. 
+
 # Contact
 Feel free to contact me at my email address j.zamora1108@gmail.com for any questions! 
