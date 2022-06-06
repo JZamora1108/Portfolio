@@ -1,5 +1,5 @@
 # About
-My name is Jesse Zamora. I have been in the analytical field for 6 years. I started to really enjoy numbers when I was working for Gallup as a sample manager analyst. My job was to make sure that we had enough numbers to call between all of the call centers. It was a lot of fun to manage how many employees we had working, how many numbers to dial and when to open up the project by time zone. From there I have become consumed by analytics and thoroughly enjoy what I am doing as I continue my analytical journey with Woodmen Life!
+My name is Jesse Zamora. I have been in the data analytical field for 6 years. I have recently graduated with a MS in Data Science. I really enjoy working with programming languages like Python R and SQL to assisnt in things like analysis, forecasting and planning. Outside of work I like to spend time with my family, golf, play cards with friends and chess. 
 
 # Work Projects
 *nba_shots_analysis* 
